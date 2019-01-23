@@ -23,4 +23,8 @@ class HomeActivity : AppCompatActivity() {
 
         startActivity(Intent(this,SheetDialogActivity::class.java))
     }
+    fun bottomSheetDialogFragmentClicked(view : View){
+
+        startActivity(Intent(this,SheetFragmentActivity::class.java))
+    }
 }
