@@ -18,7 +18,7 @@ class HomeActivity : AppCompatActivity() {
 
     fun bottomSheetBehaviourClicked(view : View){
 
-        startActivity(Intent(this, BSBehaviourActivity::class.java))
+        startActivity(Intent(this, SheetBehaviourActivity::class.java))
     }
     fun bottomSheetDialogClicked(view : View){
 

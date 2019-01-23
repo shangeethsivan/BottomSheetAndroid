@@ -8,7 +8,7 @@ import android.widget.LinearLayout
 import co.shrappz.testingbottomsheet.R
 
 
-class BSBehaviourActivity : AppCompatActivity() {
+class SheetBehaviourActivity : AppCompatActivity() {
 
 
     lateinit var sheetBehavior: BottomSheetBehavior<*>
