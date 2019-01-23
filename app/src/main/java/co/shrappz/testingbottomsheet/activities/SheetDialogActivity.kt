@@ -1,9 +1,10 @@
-package co.shrappz.testingbottomsheet
+package co.shrappz.testingbottomsheet.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.design.widget.BottomSheetDialog
 import android.widget.Button
+import co.shrappz.testingbottomsheet.R
 
 class SheetDialogActivity : AppCompatActivity() {
 

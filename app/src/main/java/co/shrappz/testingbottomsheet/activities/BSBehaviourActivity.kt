@@ -1,13 +1,11 @@
-package co.shrappz.testingbottomsheet
+package co.shrappz.testingbottomsheet.activities
 
 import android.os.Bundle
 import android.support.design.widget.BottomSheetBehavior
-import android.support.design.widget.CoordinatorLayout
 import android.support.v7.app.AppCompatActivity
-import android.view.View
 import android.widget.Button
 import android.widget.LinearLayout
-
+import co.shrappz.testingbottomsheet.R
 
 
 class BSBehaviourActivity : AppCompatActivity() {
