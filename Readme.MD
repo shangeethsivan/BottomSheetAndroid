@@ -6,8 +6,8 @@ Language Used : Kotlin
 
 ### Basic Bottom sheet (Using coordinator layout and behaviour)
 
-![BottomSheet](/bottomsheet_behaviour.gif)
+![BottomSheet](/bottomsheet_behaviour.gif = 300x600)
 
 ### BottomSheetDialog or BottomSheetDialogFragment
 
-![BottomSheetDialog](/bottomSheet_dialog.gif)
+![BottomSheetDialog](/bottomSheet_dialog.gif = 300x600)
