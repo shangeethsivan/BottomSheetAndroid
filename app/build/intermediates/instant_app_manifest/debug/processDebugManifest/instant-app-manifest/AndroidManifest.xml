@@ -19,13 +19,16 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="co.shrappz.testingbottomsheet.MainActivity" >
+        <activity android:name="co.shrappz.testingbottomsheet.activities.SheetFragmentActivity" />
+        <activity android:name="co.shrappz.testingbottomsheet.activities.SheetDialogActivity" />
+        <activity android:name="co.shrappz.testingbottomsheet.activities.HomeActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="co.shrappz.testingbottomsheet.activities.BSBehaviourActivity" />
     </application>
 
 </manifest>
