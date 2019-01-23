@@ -6,8 +6,8 @@ Language Used : Kotlin
 
 ### Basic Bottom sheet (Using coordinator layout and behaviour)
 
-![BottomSheet](/bottomsheet_behaviour.gif = 300x600)
+<img src="https://raw.githubusercontent.com/shivthepro/BottomSheet-Test/master/bottomsheet_behaviour.gif" alt="" data-canonical-src="https://raw.githubusercontent.com/shivthepro/BottomSheet-Test/master/bottomsheet_behaviour.gif" width="200" height="400" />
 
 ### BottomSheetDialog or BottomSheetDialogFragment
 
-![BottomSheetDialog](/bottomSheet_dialog.gif = 300x600)
+<img src="https://raw.githubusercontent.com/shivthepro/BottomSheet-Test/master/bottomSheet_dialog.gif" alt="" data-canonical-src="https://raw.githubusercontent.com/shivthepro/BottomSheet-Test/master/bottomSheet_dialog.gif" width="200" height="400" />
