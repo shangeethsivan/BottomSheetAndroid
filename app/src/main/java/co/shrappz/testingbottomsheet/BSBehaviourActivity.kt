@@ -10,7 +10,7 @@ import android.widget.LinearLayout
 
 
 
-class MainActivity : AppCompatActivity() {
+class BSBehaviourActivity : AppCompatActivity() {
 
 
     lateinit var sheetBehavior: BottomSheetBehavior<*>

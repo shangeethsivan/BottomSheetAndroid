@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="Basic BottomSheet Behaviour!" />
+        android:text="Bottom Sheet Dialog!" />
 
     <Button
         android:id="@+id/testing_bottom_sheet_btn"
@@ -19,19 +19,5 @@
         android:layout_gravity="center"
         android:text="Expand Sheet" />
 
-    <LinearLayout
-        android:id="@+id/bottom_sheet_container"
-        android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:background="#ffff9f"
-        android:gravity="center"
-        app:layout_behavior="android.support.design.widget.BottomSheetBehavior">
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="bottom sheet" />
-
-    </LinearLayout>
 
 </android.support.design.widget.CoordinatorLayout>
