@@ -25,7 +25,7 @@ class SheetDialogActivity : AppCompatActivity() {
             bottomSheetDialog = BottomSheetDialog(this)
             bottomSheetDialog!!.setContentView(R.layout.sheet_container)
         }
-        if(bottomSheetDialog!!.isShowing()) {
+        if(bottomSheetDialog!!.isShowing) {
             bottomSheetDialog!!.dismiss()
         }else{
             bottomSheetDialog!!.show()
