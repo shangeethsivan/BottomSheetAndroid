@@ -1,6 +1,7 @@
 # Bottom Sheet Android
 
 [![Preview the app](https://img.shields.io/badge/Preview-Appetize.io-orange.svg)](https://appetize.io/app/krnvkau93cavvkcb1bwwbfdr6m)
+[![CircleCI](https://circleci.com/gh/shivthepro/BottomSheetAndroid/tree/master.svg?style=svg)](https://circleci.com/gh/shivthepro/BottomSheetAndroid/tree/master)
 
 ## Just testing the various bottom sheet that can be created in android
 
